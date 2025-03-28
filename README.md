@@ -9,7 +9,7 @@
 ## About me:
 
 <div>
-<p>Highly skilled Android Developer with 6 years of experience in creating custom mobile applications using native technologies. Dynamic and personable with a strong focus on the application lifecycle. I have experience in Kotlin, Clean architecture, and MVVM to develop innovative and high-performance Android applications.</p>
+<p>Results-driven Android Developer with 7+ years of expertise in designing and delivering high-performance mobile applications using Kotlin, Clean Architecture, and MVVM. Proven track record of building scalable, user-friendly apps with a strong focus on the application lifecycle. Experienced in working remotely within multicultural, cross-functional teams to deliver innovative solutions that enhance user experience and drive business growth. </p>
 </div>
 <br>
 
